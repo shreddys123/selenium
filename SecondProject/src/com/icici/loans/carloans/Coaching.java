@@ -1,7 +1,8 @@
-package com.icici.loans.carloans;
+ package com.icici.loans.carloans;
 
 public class Coaching 
 {
+	int p=100, q=200,r;
 	public static void main(String[] args)
 	{
 		System.out.println("this is github");
